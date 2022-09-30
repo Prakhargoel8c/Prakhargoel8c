@@ -1,7 +1,11 @@
 <h2>Hey there, I'm Prakhar </h2>
 <h3>I'm software developer from India, currently specialising in development of SPAs with React.js and its ecosystem.</h3>
+</br/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhargoel8c&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p> -->
+![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhargoel8c&show_icons=true&theme=radical)
+
+<hr/>
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -26,10 +30,14 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 </p>
 
+<hr/>
+
+
 <h3>Where To Find Me:</h3>
 <p>
 <p><a href="https://github.com/Prakhargoel8c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="www.linkedin.com/in/prakgoel89" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+<hr/>
 
 <h3>My Projects:</h3>
 <p>
