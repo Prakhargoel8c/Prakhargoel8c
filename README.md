@@ -2,9 +2,9 @@
 <h3>I'm software developer from India, currently specialising in development of SPAs with React.js and its ecosystem.</h3>
 </br/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhargoel8c&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p> -->
-<!-- ![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhargoel8c&show_icons=true&theme=radical)
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhargoel8c&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
+![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhargoel8c&show_icons=true&theme=radical)
+
 <hr/>
 
 <h3 align="left">Languages & Tools:</h3>
