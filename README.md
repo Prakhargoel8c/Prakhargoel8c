@@ -1,8 +1,9 @@
 <h2>Hey there, I'm Prakhar </h2>
 <h3>I'm software developer from India, currently specialising in development of SPAs with React.js and its ecosystem.</h3>
-</br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhargoel8c&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
+<div>
+<p> <img src="https://komarev.com/ghpvc/?username=Prakhargoel8c&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
+<img  width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhargoel8c&theme=dark" alt="Prakhargoel8c"/> </div>
+<br/>
 <hr/>
 
 <h3 align="left">Languages & Tools:</h3>
@@ -29,6 +30,7 @@
 </p>
 
 <hr/>
+
 
 
 <h3>Where To Find Me:</h3>
